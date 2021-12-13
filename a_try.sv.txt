@@ -1,0 +1,6 @@
+`ifndef A_TRY
+`define A_TRY
+
+class try extends uvm_env;
+endclass
+`endif
